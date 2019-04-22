@@ -107,7 +107,6 @@ venv.bak/
 .idea
 
 # Others
-draft/
 capstone_proposal_template.md
 
 #### ONLY UNTIL IMPLEMENTATION STARTED
