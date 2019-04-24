@@ -106,8 +106,5 @@ venv.bak/
 # IntelliJ
 .idea
 
-# Others
-capstone_proposal_template.md
-
 #### ONLY UNTIL IMPLEMENTATION STARTED
 MLND_Capstone.ipynb
