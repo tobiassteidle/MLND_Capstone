@@ -28,6 +28,7 @@ cd MLND_Capstone
 ```
 Proposal.pdf
 ```
+Link to [Proposal Review](https://review.udacity.com/#!/reviews/1806638)
 
 3. Create and activate a new environment.   
 Follow the instructions on [data/README.md](data/README.md).
