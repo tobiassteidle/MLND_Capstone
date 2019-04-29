@@ -103,8 +103,14 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Others
+logs/
+backup/
+
 # IntelliJ
 .idea
 
-#### ONLY UNTIL IMPLEMENTATION STARTED
-MLND_Capstone.ipynb
+# Submission (TEMP)
+submission.csv
+submission_test.csv
+

@@ -1,7 +1,11 @@
-matplotlib==2.0.0
-numpy==1.14.1
-pandas==0.19.2
+matplotlib
+numpy
+pandas
+librosa
+seaborn
+tqdm
+xgboost
 tensorflow-gpu==1.5.0
 Keras==2.2.4
-ipykernel==5.1.0
+ipykernel
 jupyter
