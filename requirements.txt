@@ -5,6 +5,7 @@ librosa
 seaborn
 tqdm
 xgboost
+PyWavelets
 tensorflow-gpu==1.5.0
 Keras==2.2.4
 h5py

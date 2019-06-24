@@ -30,29 +30,34 @@ Proposal.pdf
 ```
 Link to [Proposal Review](https://review.udacity.com/#!/reviews/1806638)
 
-3. Create and activate a new environment.   
+3. Read the Report ;-)
+```
+Report.pdf
+```
+
+4. Create and activate a new environment.   
 Follow the instructions on [data/README.md](data/README.md).
 
 
-4. Create and activate a new environment.
+5. Create and activate a new environment.
 ```
 conda create -n capstone python=3.6
 source activate capstone
 ```
 
-5. Install Dependencies.
+6. Install Dependencies.
 ```
 pip install -r requirements.txt
 ```
 
-6. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `capstone` environment. 
+7. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `capstone` environment. 
 ```
 python -m ipykernel install --user --name capstone --display-name "capstone"
 ```
 
-7. Open the notebook.
+8. Open the notebook.
 ```
 jupyter notebook MLND_Capstone.ipynb
 ```
 
-7. Before running code, change the kernel to match the `capstone` environment by using the drop-down menu (**Kernel > Change kernel > capstone**). Then, follow the instructions in the notebook.
+79 Before running code, change the kernel to match the `capstone` environment by using the drop-down menu (**Kernel > Change kernel > capstone**). Then, follow the instructions in the notebook.
