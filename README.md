@@ -1,6 +1,9 @@
 # MLND_Capstone
 Machine Learning Engineer Nanodegree - Capstone Project
 
+![Machine Learning Engineer Nanodagree](assets/Zertifikat.png)
+
+
 ## Introduction
 For my capstone project I chose the Kaggle Competition [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction/).  
 
@@ -61,3 +64,5 @@ jupyter notebook MLND_Capstone.ipynb
 ```
 
 79 Before running code, change the kernel to match the `capstone` environment by using the drop-down menu (**Kernel > Change kernel > capstone**). Then, follow the instructions in the notebook.
+
+
